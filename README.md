@@ -11,4 +11,4 @@ Web-Scraping using:
       - pip install beautifulsoup4
 
 OBS: Can install using requirements.txt
- - pip install -r requirements.txt
+ - pip install -r requirements.txt (recommended)
