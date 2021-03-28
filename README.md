@@ -12,3 +12,13 @@ Web-Scraping using:
 
 OBS: Can install all dependencies using requirements.txt
  - pip install -r requirements.txt
+
+
+# -
+- ''' Python 3.9.1 '''
+- ''' Create your virtual enviroment and install all requirements '''
+- ''' Requirements in requirements.txt '''
+- ''' I'll be using GoogleChrome for this app '''
+- ''' It is necessary to install the webdriver for the browser you will be using.
+    You can download the correct webdriver and put in the '/driver/' folder.
+    Selenium documentation: https://pypi.org/project/selenium/ '''
