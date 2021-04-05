@@ -1,6 +1,6 @@
 # Web-Scraping
 
-Web-Scraping using:
+Amazon Web-Scraping using:
 - Python (3.9.1) (64bits)
   - Selenium Webdriver (Chrome)
       - pip install selenium
